@@ -1,0 +1,12 @@
+close
+creatfiletxtnew
+deletfiletxtnew
+copyfiletxtonepathone
+namefiletxtpathonefour
+deletfoldertwo
+deletcontentbinresecle
+copythreefiletxtone
+contentfiletxtone
+openbrowser
+closecomputer
+openpaint

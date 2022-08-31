@@ -1,0 +1,12 @@
+close
+copy /b NUL F:\\pathes\\pathall\\New.txt
+rm F:\\pathes\\pathall\\New.txt
+copy F:\\pathes\\pathall\\file1.txt F:\\pathes\\path1\\file1.txt
+mv F:\\pathes\\pathall\\file1.txt F:\\pathes\\path1\\file4.txt
+rm -r F:\\pathes\\path2
+del /s /q %systemdrive%\$Recycle.bin
+echo threeee >> F:\\pathes\\pathall\\file1.txt
+start F:\\pathes\\pathall\\file1.txt
+start chrome
+shutdown /s
+mspaint
