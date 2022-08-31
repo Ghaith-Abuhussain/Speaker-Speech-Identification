@@ -5,5 +5,5 @@ The speaker recognition part is done using the GMM model depending on the MFCC f
 the speech recognition part is done using the GMM-HMM model depending on the DTW "Dynamic Time Wrapping" Algotithm. The Trainging and testing stages are done depending on local dataset of 32 words, each word was repeated from 21 different speakers. The sampling frequency was 41.1KHz and we acheived accuercy reached to 97.82%.
 The system was applyed on raspberry pi 3 model B using python 3.6.
 
-
+The system is also provided with simple user interface to take new records and make the training and testing stages.
 ![User_Interface](https://user-images.githubusercontent.com/110384824/187791618-03d42830-21f5-4516-b4c1-d7d859cef086.png)
