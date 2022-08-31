@@ -6,4 +6,4 @@ the speech recognition part is done using the GMM-HMM model depending on the DTW
 The system was applyed on raspberry pi 3 model B using python 3.6.
 
 
-![image](https://user-images.githubusercontent.com/110384824/187790466-3af755ef-5e3e-4dd8-b389-1fd647bcd702.png)
+![User_Interface](https://user-images.githubusercontent.com/110384824/187791618-03d42830-21f5-4516-b4c1-d7d859cef086.png)
